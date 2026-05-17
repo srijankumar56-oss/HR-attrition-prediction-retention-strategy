@@ -34,4 +34,4 @@ Class Distribution:
 
 ## Workflow Architecture
 
-![Workflow](screenshots/workflow-overview.png)
+![Workflow](screenshots/workflow.png)
