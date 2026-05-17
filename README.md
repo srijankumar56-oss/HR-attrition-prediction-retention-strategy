@@ -83,7 +83,7 @@ Models Compared:
 
 ![RF](screenshots/RF_confusion_Matrix.png)
 
-![GBT](screenshots/GBT-confusion_Matrix.png)
+![GBT](screenshots/GBT_confusion_Matrix.png)
 
 ## Feature Importance
 
