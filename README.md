@@ -81,9 +81,9 @@ Models Compared:
 
 ### Confusion Matrices
 
-![RF](screenshots/RF_confusion-matrix.png)
+![RF](screenshots/RF_confusion_Matrix.png)
 
-![GBT](screenshots/GBT-confusion-matrix.png)
+![GBT](screenshots/GBT-confusion_Matrix.png)
 
 ## Feature Importance
 
@@ -95,7 +95,7 @@ Key drivers influencing employee attrition:
 - Job Level
 - Total Working Years
 
-![Importance](screenshots/Feature-importance.png)
+![Importance](screenshots/Feature_importance.png)
 
 ## Retention Strategy
 
@@ -106,7 +106,7 @@ Employees were segmented using:
 
 This enabled prioritization of retention interventions and investment allocation.
 
-![Risk Matrix](screenshots/Risk-potential-Matrix.png)
+![Risk Matrix](screenshots/Risk_potential_Matrix.png)
 
 ![Risk Matrix](screenshots/Retention_cost_scenarios.png)
 
@@ -115,7 +115,7 @@ This enabled prioritization of retention interventions and investment allocation
 
 GBT achieved the lowest misclassification cost and was selected as the final model.
 
-![Cost](screenshots/Misclassification-Cost.png)
+![Cost](screenshots/Misclassification_Cost.png)
 
 
 ## Tools Used
