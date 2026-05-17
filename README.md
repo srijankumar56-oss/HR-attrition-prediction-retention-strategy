@@ -50,7 +50,7 @@ Class Distribution:
 
 ![Department](screenshots/dept_wise_attrition.png)
 
-![Job Level](screenshots/Job_level-attrition.png)
+![Job Level](screenshots/Job_level_attrition.png)
 
 ### Numeric Analysis
 
